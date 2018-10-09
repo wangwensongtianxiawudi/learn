@@ -1,4 +1,4 @@
-Git is a version contro system.
+Git is a distributed versioncontrol system.
 Git is free software.
 Hello World.
 hello
